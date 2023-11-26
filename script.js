@@ -27,6 +27,9 @@ async function Teste1()
     try 
     {
         // Comunicar
+        console.log('\nIniciando Teste 1!');
+
+        // Comunicar
         console.log('\nAbrindo Chrome...');
 
         // Navegar até o Google
