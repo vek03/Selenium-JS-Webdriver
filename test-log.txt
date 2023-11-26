@@ -1,0 +1,8 @@
+{
+  "assertions": [
+    "Pesquisa Executada: LadySteel Github - Pesquisa Google",
+    "O primeiro resultado contém \"LadySteel\".",
+    "Título da Página Final: GitHub - vek03/LadySteel: O LadySteel consiste em um sistema web que capta denúncias de violência doméstica, possibilitando o socorro à vitima que disparou o alerta através do dispositivo. Projeto desenvolvido com Laravel 10, Breeze, MySQL, Google Maps API, Twilio SMS API e ESP32. Colaboradores: @MarianeBS e @joaopedro2602"
+  ],
+  "success": true
+}

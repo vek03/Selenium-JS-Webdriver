@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "selenium-webdriver": "^4.15.0"
+    "mocha": "^10.2.0",
+    "nan": "^2.18.0",
+    "node-gyp": "^10.0.1",
+    "selenium-webdriver": "^4.15.0",
+    "sleep": "^6.3.0"
   }
 }
